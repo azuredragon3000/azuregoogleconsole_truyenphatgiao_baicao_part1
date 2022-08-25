@@ -1,9 +1,21 @@
+Screenshot_20220722_133120.png  
+<img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/Screenshot_20220722_133120.png" />   
+Screenshot_20220722_133130.png  
+<img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/Screenshot_20220722_133130.png" />   
+Screenshot_20220722_133145.png  
+<img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/Screenshot_20220722_133145.png" />   
+app/src/main/ic_launcher-playstore.png  
+<img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/app/src/main/ic_launcher-playstore.png" />   
+app/src/main/res/drawable-v24  
+<img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/app/src/main/res/drawable-v24" />   
 app/src/main/res/drawable-v24/custom_background.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/app/src/main/res/drawable-v24/custom_background.xml" />   
 app/src/main/res/drawable-v24/ic_launcher_foreground.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />   
 app/src/main/res/drawable-v24/phat.png  
 <img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/app/src/main/res/drawable-v24/phat.png" />   
+app/src/main/res/drawable  
+<img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/app/src/main/res/drawable" />   
 app/src/main/res/drawable/ic_launcher_background.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_baicao_part1_truyenphatgiao/blob/master/app/src/main/res/drawable/ic_launcher_background.xml" />   
 app/src/main/res/mipmap-hdpi  
